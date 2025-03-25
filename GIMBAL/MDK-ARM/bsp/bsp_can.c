@@ -1,5 +1,4 @@
 #include "bsp_can.h"
-#include "remote_control.h"
 #include "DM4310multi.h"
 #include "DM4310.h"
 #include "Gimbal_task.h"

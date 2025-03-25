@@ -825,26 +825,6 @@
               <FileType>5</FileType>
               <FilePath>.\bsp\bsp_can.h</FilePath>
             </File>
-            <File>
-              <FileName>bsp_rc.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\bsp\bsp_rc.c</FilePath>
-            </File>
-            <File>
-              <FileName>bsp_rc.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\bsp\bsp_rc.h</FilePath>
-            </File>
-            <File>
-              <FileName>remote_control.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\bsp\remote_control.c</FilePath>
-            </File>
-            <File>
-              <FileName>remote_control.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\bsp\remote_control.h</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -859,16 +839,6 @@
               <FileName>pid.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\calculate\pid.h</FilePath>
-            </File>
-            <File>
-              <FileName>motion.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\calculate\motion.c</FilePath>
-            </File>
-            <File>
-              <FileName>motion.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\calculate\motion.h</FilePath>
             </File>
             <File>
               <FileName>vision.c</FileName>

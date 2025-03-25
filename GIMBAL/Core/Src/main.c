@@ -30,9 +30,6 @@
 /* USER CODE BEGIN Includes */
 #include "bsp_can.h"
 #include "pid.h"
-#include "motion.h"
-#include "bsp_rc.h"
-#include "remote_control.h"
 #include "DM4310.h"
 #include "HWT606.h"
 /* USER CODE END Includes */
@@ -42,7 +39,6 @@
 RC_ctrl_t rc_ctrl;
 Direc_Struct direc;
 Motor_struct motor;
-Motion_Struct motion;
 extern DM4310_TypeDef DM4310;
 int time1=1000,time2=2100;
 /* USER CODE END PTD */
